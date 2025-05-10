@@ -47,7 +47,7 @@ def main():
         uc=[30,255,255]
     else:
         print("Invalid color choice.") 
-        exit() #
+        exit() 
     tracking()
 
 if __name__=="__main__":
